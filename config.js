@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: ' yêu anh nhiều<33',
-    btnNo: 'Không, oppa à  :3',
+    btnNo: ' Không, oppa à  :3',
     question:'cho cái lý do nào hợp lý vô nha 😈',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà ko yêu thì ăn đấm , nên là phải yêu  <33333333',
